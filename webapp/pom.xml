@@ -7,7 +7,7 @@
     <groupId>com.example.maven-project</groupId>
     <artifactId>maven-project</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <relativePath>https://github.com/AvinashDevina/maven-project/pom.xml</relativePath>
+    <relativePath>https://github.com/AvinashDevina/maven-project/blob/master/pom.xml</relativePath>
   </parent>
 
   <artifactId>webapp</artifactId>
